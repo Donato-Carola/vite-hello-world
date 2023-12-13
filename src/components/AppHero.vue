@@ -15,6 +15,7 @@
     <h3>
         vite ti semplifica la vita 
     </h3>
+    <img src="./img/robinsmile.jpg" alt="">
 </div>
 
 </template>
@@ -23,6 +24,10 @@
  div>h1,
  h3{
     color: red;
+ }
+ img{
+    width: 100%;
+    height: 800px;
  }
 
 </style>
